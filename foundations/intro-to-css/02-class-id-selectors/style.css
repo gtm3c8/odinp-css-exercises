@@ -1,0 +1,19 @@
+.number{
+    background-color: #FFCCCB;
+    font-family: 'Verdana', 'Dejavu Sans', 'sans-serif';
+}
+
+#first{
+    color: rgb(0,0,255);
+    font-size: 36px;
+}
+
+.number.two{
+    font-size: 24px;
+}
+
+#second{
+    background-color:hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
